@@ -1,0 +1,14 @@
+layout_spectrum: 0.7589931471738964
+typography_spectrum: 0.6438538583461195
+color:
+  brandStrength: 0.7270271657034755
+  lightness: 0.3524869829416275
+  saturation: 0.37885865988209844
+  rhythmicContrast: 0.6762081168126315
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: DZE
