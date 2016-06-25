@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Chief DZE]]></title>
         <description><![CDATA[Chief DZE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dze/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 22:58:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 25 Jun 2016 22:59:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dze/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We (Prod. by Charley Brown)]]></title>
+            <description><![CDATA[<article><h1>We (Prod. by Charley Brown)</h1><p>July 23rd, All Ages Mesa, AZ [bit.ly/beLIVE1] [bit.ly/beLIVE1] [bit.ly/beLIVE1] @chiefdze @charley_brown VOCALS: CHARLEY BROWN Exectutive produced by Charley Brown © 2016 betterEVERYDAY</p></article>]]></description>
+            <link>https://soundcloud.com/chiefdze/atgwe</link>
+            <guid isPermaLink="false">2bdbc386-c905-43e1-b2c4-716603ecdc23</guid>
+            <pubDate>Sat, 25 Jun 2016 22:59:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ice Cream Man Freestyle]]></title>
             <description><![CDATA[<article><h1>Ice Cream Man Freestyle</h1><p>Performed on April 28th @ Joe's Grotto. A little something to hold you off until the project(TBA) Twitter @ChiefDZE</p></article>]]></description>
