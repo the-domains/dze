@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chief DZE]]></title>
+        <description><![CDATA[Chief DZE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 25 Jun 2016 22:58:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ice Cream Man Freestyle]]></title>
+            <description><![CDATA[<article><h1>Ice Cream Man Freestyle</h1><p>Performed on April 28th @ Joe's Grotto. A little something to hold you off until the project(TBA) Twitter @ChiefDZE</p></article>]]></description>
+            <link>https://soundcloud.com/chiefdze/icecream</link>
+            <guid isPermaLink="false">23aef52d-384e-47d7-b7a3-e7d3f601a607</guid>
+            <pubDate>Sat, 25 Jun 2016 22:58:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
