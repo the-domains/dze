@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-datePublished: '2016-08-07T04:27:46.755Z'
-dateModified: '2016-08-07T04:27:44.252Z'
+datePublished: '2016-08-07T04:28:24.951Z'
+dateModified: '2016-08-07T04:28:23.781Z'
 publisher: {}
 author: []
 inFeed: true
@@ -18,4 +18,4 @@ A S T O L D B Y D Z E
 
 > 
 
-https://soundcloud.com/chiefdze/astoldbydze
+https://soundcloud.com/chiefdze/toldbydze
