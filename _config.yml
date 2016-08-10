@@ -1,4 +1,3 @@
-layout_spectrum: 0.7589931471738964
 typography_spectrum: 0.6438538583461195
 color:
   brandStrength: 0.7270271657034755
@@ -11,5 +10,7 @@ color:
     - '#374140'
     - '#2A2C2B'
     - '#1E1E20'
+layout_spectrum: 0.7589931471738964
 name: DZE
 title: Chief DZE
+description: A S T O L D B Y D Z E
