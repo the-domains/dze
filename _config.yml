@@ -1,16 +1,16 @@
-typography_spectrum: 0.6438538583461195
+layout_spectrum: 0.5695069250650704
+typography_spectrum: 0.3073432694654912
 color:
-  brandStrength: 0.7270271657034755
-  lightness: 0.3524869829416275
-  saturation: 0.37885865988209844
-  rhythmicContrast: 0.6762081168126315
+  brandStrength: 0.5424865253735334
+  lightness: 0.007400774862617254
+  saturation: 0.5804962608963251
+  rhythmicContrast: 0.23876678268425167
   brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
-layout_spectrum: 0.7589931471738964
+    - '#38063B'
+    - '#FAFAFA'
+    - '#743428'
+    - '#BC927A'
+    - '#C8C8C8'
 name: DZE
 title: Chief DZE
 description: A S T O L D B Y D Z E
